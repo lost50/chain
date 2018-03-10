@@ -1,0 +1,45 @@
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/lost50/timber/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+<title>Disney Classic Collection</title>
+<tmdb>list/https://www.themoviedb.org/list/338</tmdb>
+</dir>
+
+<dir>
+    <title>kids place</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kidsmain.xml</link>
+  </dir>
+</xml>
+
+<dir>
+    <title>kids boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kids_boxset.xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>2000's</title>
+<tmdb>list/44958</tmdb>
+<thumbnail>https://pbs.twimg.com/profile_images/736911444206358528/_uJQLJnE.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>2010's</title>
+<tmdb>list/44961</tmdb>
+<thumbnail>https://pbs.twimg.com/profile_images/736911444206358528/_uJQLJnE.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Future Releases</title>
+<tmdb>list/44962</tmdb>
+<thumbnail>https://pbs.twimg.com/profile_images/736911444206358528/_uJQLJnE.jpg</thumbnail>
+</dir>
+

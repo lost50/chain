@@ -1,0 +1,14 @@
+<dir>
+<title>DC Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/32942</tmdb>
+<thumbnail></thumbnail>
+<summary>All DC Movies</summary>
+</dir>
+ 
+<dir>
+<title>Marvel Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/32938</tmdb>
+<thumbnail></thumbnail>
+<summary>All Marvel Movies</summary>
+</dir>
+ 
