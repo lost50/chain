@@ -1,18 +1,23 @@
-<xml>
-  <dir>
-    <title>Timber</title>
-    <link>https://raw.githubusercontent.com/beast58/timber/master/timber.xml</link>
-  </dir>
+<dir>
+        <name>[B][COLORaqua]I.C.U[/COLOR][/B]</name>
+        <link>http://androidbboy.xyz/home/main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/lost50/I.C.U/master/Eye%20Main.xml</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
 
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
-</xml>
+<dir>
+        <name>[B][COLORmintcream]Collector[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/lost50/collector/master/Collector%20main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://bossbuilds.club/roland/pics/emerge.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
 
-
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
-</xml>
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.chain breaker/?action=openSettings</link>
+<thumbnail>http://cdn.osxdaily.com/wp-content/uploads/2015/09/iOS-Settings-icon.png</thumbnail>
+</plugin>
