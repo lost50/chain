@@ -1,6 +1,6 @@
 <dir>
         <name>[B][COLORaqua]I.C.U[/COLOR][/B]</name>
-        <link>http://androidbboy.xyz/home/main.xml</link>
+        <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Eye%20Main.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://raw.githubusercontent.com/lost50/I.C.U/master/Eye%20Main.xml</thumbnail>
         <animated_fanart></animated_fanart>
@@ -8,16 +8,43 @@
 </dir>
 
 <dir>
-        <name>[B][COLORmintcream]Collector[/COLOR][/B]</name>
+        <name>[B][COLORaqua]Collector[/COLOR][/B]</name>
         <link>https://raw.githubusercontent.com/lost50/collector/master/Collector%20main.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://bossbuilds.club/roland/pics/emerge.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/lost50/I.C.U/master/Eye%20Main.xml</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORaqua]Lost[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/mind55/thelost/master/main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/lost50/I.C.U/master/Eye%20Main.xml</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORaqua]Trapper[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/trapper58/trappor2/master/main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/trapper58/trappor2/master/main.xml</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORaqua]Predator[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/collector11/collector/master/main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/trapper58/trappor2/master/main.xml</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
 
 <plugin>
-<name>30701</name>
+<name>Settins</name>
 <link>plugin://plugin.video.chain breaker/?action=openSettings</link>
 <thumbnail>http://cdn.osxdaily.com/wp-content/uploads/2015/09/iOS-Settings-icon.png</thumbnail>
 </plugin>
